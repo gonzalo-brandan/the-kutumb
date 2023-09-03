@@ -9,7 +9,7 @@
 }
 
 .app__bg {
-  background: url('./assets/bg.png');
+  background-color: url('./assets/bg.png');
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
@@ -46,6 +46,8 @@
 .app__wrapper_img-reverse {
   justify-content: flex-start;
   margin-right: 2rem;
+  width: 80%;
+  
 }
 
 .app__wrapper_img img {
